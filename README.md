@@ -1,0 +1,2 @@
+# awesome-copilot
+AI workshop
